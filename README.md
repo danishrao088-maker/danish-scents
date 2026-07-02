@@ -74,7 +74,7 @@ All product data is stored and managed using PostgreSQL through RESTful APIs.
 
 ## 🏠 Home Page
 
-<img src="screenshots/home.png" width="1000"/>
+<img src="screenshots/checkout.jpeg" width="1000"/>
 
 ---
 
