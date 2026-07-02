@@ -73,32 +73,19 @@ All product data is stored and managed using PostgreSQL through RESTful APIs.
 # 📸 Project Screenshots
 
 ## 🏠 Home Page
-
-<img src="screenshots/checkout.jpeg" width="1000"/>
-
----
+![Home](screenshots/home.jpeg)
 
 ## 🔐 Admin Login
-
-<img src="screenshots/admin-login.png" width="1000"/>
-
----
+![Admin Login](screenshots/admin-login.jpeg)
 
 ## 📊 Admin Dashboard
-
-<img src="screenshots/admin-dashboard.png" width="1000"/>
-
----
+![Admin Dashboard](screenshots/admin-dashboard.jpeg)
 
 ## 🛒 Shopping Cart
-
-<img src="screenshots/cart.png" width="1000"/>
-
----
+![Shopping Cart](screenshots/cart.jpeg)
 
 ## 💳 Checkout Page
-
-<img src="screenshots/checkout.png" width="1000"/>
+![Checkout](screenshots/checkout.jpeg)
 
 ---
 
